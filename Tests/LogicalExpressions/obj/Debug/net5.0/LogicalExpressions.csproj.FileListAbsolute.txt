@@ -1,0 +1,16 @@
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\LogicalExpressions\obj\Debug\net5.0\LogicalExpressions.csprojAssemblyReference.cache
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\LogicalExpressions\obj\Debug\net5.0\LogicalExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\LogicalExpressions\obj\Debug\net5.0\LogicalExpressions.AssemblyInfoInputs.cache
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\LogicalExpressions\obj\Debug\net5.0\LogicalExpressions.AssemblyInfo.cs
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\LogicalExpressions\obj\Debug\net5.0\LogicalExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\LogicalExpressions\bin\Debug\net5.0\LogicalExpressions.exe
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\LogicalExpressions\bin\Debug\net5.0\LogicalExpressions.deps.json
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\LogicalExpressions\bin\Debug\net5.0\LogicalExpressions.runtimeconfig.json
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\LogicalExpressions\bin\Debug\net5.0\LogicalExpressions.runtimeconfig.dev.json
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\LogicalExpressions\bin\Debug\net5.0\LogicalExpressions.dll
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\LogicalExpressions\bin\Debug\net5.0\ref\LogicalExpressions.dll
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\LogicalExpressions\bin\Debug\net5.0\LogicalExpressions.pdb
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\LogicalExpressions\obj\Debug\net5.0\LogicalExpressions.dll
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\LogicalExpressions\obj\Debug\net5.0\ref\LogicalExpressions.dll
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\LogicalExpressions\obj\Debug\net5.0\LogicalExpressions.pdb
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\LogicalExpressions\obj\Debug\net5.0\LogicalExpressions.genruntimeconfig.cache
