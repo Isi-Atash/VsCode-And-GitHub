@@ -43,6 +43,7 @@ namespace Casting
                 }
                 WriteLine("You did not enter a valid number!");
                 //Welp?
+                //So?
 
             }
         }
