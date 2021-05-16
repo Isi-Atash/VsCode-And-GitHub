@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ismayil3\\Desktop\\Extra\\Knwlgd\\C# 8.0 and Net 3.0\\VSCode\\Tests\\Converter\\Converter.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ismayil3\\Desktop\\Extra\\Knwlgd\\C# 8.0 and Net 3.0\\VSCode\\Tests\\Converter\\Converter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Knwlgd\\C# 8.0 and Net 3.0\\VSCode\\Tests\\Converter\\Converter.csproj",
+        "projectName": "Converter",
+        "projectPath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Knwlgd\\C# 8.0 and Net 3.0\\VSCode\\Tests\\Converter\\Converter.csproj",
+        "packagesPath": "C:\\Users\\Ismayil3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Knwlgd\\C# 8.0 and Net 3.0\\VSCode\\Tests\\Converter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ismayil3\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

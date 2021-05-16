@@ -1,0 +1,13 @@
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\Tests\bin\Debug\netcoreapp3.1\Tests.exe
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\Tests\bin\Debug\netcoreapp3.1\Tests.deps.json
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.json
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.dev.json
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\Tests\bin\Debug\netcoreapp3.1\Tests.dll
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\Tests\bin\Debug\netcoreapp3.1\Tests.pdb
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\Tests\obj\Debug\netcoreapp3.1\Tests.csprojAssemblyReference.cache
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfoInputs.cache
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfo.cs
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\Tests\obj\Debug\netcoreapp3.1\Tests.dll
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\Tests\obj\Debug\netcoreapp3.1\Tests.pdb
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\Tests\obj\Debug\netcoreapp3.1\Tests.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GiqRAXNfnp0DjO442fLsb61nxMnCn31bHx4McxUDAJ5BJAl8QcYKaJfqFb57XhgF5jPuVwlgS1xJJuqOI6Aj4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Knwlgd\\C# 8.0 and Net 3.0\\VSCode\\Chapter02\\Arguments\\Arguments.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ismayil3\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}

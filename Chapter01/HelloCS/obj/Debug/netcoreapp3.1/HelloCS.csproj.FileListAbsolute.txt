@@ -1,0 +1,13 @@
+C:\Users\Ismayil3\Desktop\Extra\Knwlgd\C# 8.0 and Net 3.0\VSCode\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.exe
+C:\Users\Ismayil3\Desktop\Extra\Knwlgd\C# 8.0 and Net 3.0\VSCode\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.deps.json
+C:\Users\Ismayil3\Desktop\Extra\Knwlgd\C# 8.0 and Net 3.0\VSCode\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.runtimeconfig.json
+C:\Users\Ismayil3\Desktop\Extra\Knwlgd\C# 8.0 and Net 3.0\VSCode\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.runtimeconfig.dev.json
+C:\Users\Ismayil3\Desktop\Extra\Knwlgd\C# 8.0 and Net 3.0\VSCode\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.dll
+C:\Users\Ismayil3\Desktop\Extra\Knwlgd\C# 8.0 and Net 3.0\VSCode\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.pdb
+C:\Users\Ismayil3\Desktop\Extra\Knwlgd\C# 8.0 and Net 3.0\VSCode\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.csprojAssemblyReference.cache
+C:\Users\Ismayil3\Desktop\Extra\Knwlgd\C# 8.0 and Net 3.0\VSCode\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.AssemblyInfoInputs.cache
+C:\Users\Ismayil3\Desktop\Extra\Knwlgd\C# 8.0 and Net 3.0\VSCode\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.AssemblyInfo.cs
+C:\Users\Ismayil3\Desktop\Extra\Knwlgd\C# 8.0 and Net 3.0\VSCode\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\Ismayil3\Desktop\Extra\Knwlgd\C# 8.0 and Net 3.0\VSCode\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.dll
+C:\Users\Ismayil3\Desktop\Extra\Knwlgd\C# 8.0 and Net 3.0\VSCode\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.pdb
+C:\Users\Ismayil3\Desktop\Extra\Knwlgd\C# 8.0 and Net 3.0\VSCode\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.genruntimeconfig.cache
