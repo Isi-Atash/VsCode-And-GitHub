@@ -42,6 +42,7 @@ namespace Casting
                     break;
                 }
                 WriteLine("You did not enter a valid number!");
+                //Welp?
 
             }
         }
