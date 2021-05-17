@@ -10,7 +10,7 @@ namespace DoubleGrazing
         const double MAX_HEIGHT = 3.0;
         const double MIN_HEIGHT = 0.75;
 
-
+        
         static void Main(string[] args)
         {
             // DoubleGrazing1();
@@ -90,5 +90,9 @@ namespace DoubleGrazing
             WriteLine($"The area of the glass is {glassArea} square meters");
 
         }
+
+        //Branch mi yazinaram indi?
+        //I dunno
+        //I hope its just i think it is...
     }
 }
