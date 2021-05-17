@@ -13,7 +13,8 @@ namespace DoubleGrazing
 
         static void Main(string[] args)
         {
-            DoubleGrazing1();
+            // DoubleGrazing1();
+            DoubleGrazing2();
         }
 
 

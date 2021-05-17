@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PlaceHolders/1.0.0": {
+        "runtime": {
+          "PlaceHolders.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PlaceHolders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
