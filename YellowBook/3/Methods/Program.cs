@@ -15,10 +15,10 @@ namespace Methods
             Stupid(9);
             StupidReturnAdd(9);
 
-            double windowWidth = ReadValue("Enter width of Window", MIN_WIDTH, MAX_WIDTH);
+            double windowWidth = ReadValue(MIN_WIDTH, MAX_WIDTH, "Enter width of Window");
             WriteLine($"Width is {windowWidth}");
 
-            double age = ReadValue("Enter your age", 0, 99);
+            double age = ReadValue(0, 99);
             WriteLine($"Age is {age}");
         }
 
@@ -39,7 +39,7 @@ namespace Methods
             return age;
         }
 
-        static double ReadValue(string prompt, double low, double high)
+        static double ReadValue(double low, double high, string prompt = "Salam")
         {
             double result = 0.0;
 
@@ -54,5 +54,9 @@ namespace Methods
             return result;
         }
 
+        static void MyMethod(string country = "Norway")
+        {
+            WriteLine(country);
+        }
     }
 }
