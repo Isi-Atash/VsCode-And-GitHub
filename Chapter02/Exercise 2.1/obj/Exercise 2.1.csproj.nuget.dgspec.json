@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ismayil3\\Desktop\\Extra\\Knwlgd\\C# 8.0 and Net 3.0\\VSCode\\Chapter02\\Exercise 2.1\\Exercise 2.1.csproj": {}
+    "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\Chapter02\\Exercise 2.1\\Exercise 2.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ismayil3\\Desktop\\Extra\\Knwlgd\\C# 8.0 and Net 3.0\\VSCode\\Chapter02\\Exercise 2.1\\Exercise 2.1.csproj": {
+    "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\Chapter02\\Exercise 2.1\\Exercise 2.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Knwlgd\\C# 8.0 and Net 3.0\\VSCode\\Chapter02\\Exercise 2.1\\Exercise 2.1.csproj",
+        "projectUniqueName": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\Chapter02\\Exercise 2.1\\Exercise 2.1.csproj",
         "projectName": "Exercise 2.1",
-        "projectPath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Knwlgd\\C# 8.0 and Net 3.0\\VSCode\\Chapter02\\Exercise 2.1\\Exercise 2.1.csproj",
+        "projectPath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\Chapter02\\Exercise 2.1\\Exercise 2.1.csproj",
         "packagesPath": "C:\\Users\\Ismayil3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Knwlgd\\C# 8.0 and Net 3.0\\VSCode\\Chapter02\\Exercise 2.1\\obj\\",
+        "outputPath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\Chapter02\\Exercise 2.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ismayil3\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -24,6 +24,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -35,6 +36,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -45,12 +47,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.15, 3.1.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

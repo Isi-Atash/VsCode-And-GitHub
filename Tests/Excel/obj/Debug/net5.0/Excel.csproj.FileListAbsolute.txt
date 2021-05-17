@@ -3,3 +3,14 @@ C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\Excel\obj\Debug\ne
 C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\Excel\obj\Debug\net5.0\Excel.AssemblyInfoInputs.cache
 C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\Excel\obj\Debug\net5.0\Excel.AssemblyInfo.cs
 C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\Excel\obj\Debug\net5.0\Excel.csproj.CoreCompileInputs.cache
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\Excel\bin\Debug\net5.0\Excel.exe
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\Excel\bin\Debug\net5.0\Excel.deps.json
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\Excel\bin\Debug\net5.0\Excel.runtimeconfig.json
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\Excel\bin\Debug\net5.0\Excel.runtimeconfig.dev.json
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\Excel\bin\Debug\net5.0\Excel.dll
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\Excel\bin\Debug\net5.0\ref\Excel.dll
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\Excel\bin\Debug\net5.0\Excel.pdb
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\Excel\obj\Debug\net5.0\Excel.dll
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\Excel\obj\Debug\net5.0\ref\Excel.dll
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\Excel\obj\Debug\net5.0\Excel.pdb
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Tests\Excel\obj\Debug\net5.0\Excel.genruntimeconfig.cache

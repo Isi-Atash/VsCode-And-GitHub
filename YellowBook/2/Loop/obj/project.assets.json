@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\YellowBook\\Loop\\Loop.csproj",
+      "projectUniqueName": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\YellowBook\\2\\Loop\\Loop.csproj",
       "projectName": "Loop",
-      "projectPath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\YellowBook\\Loop\\Loop.csproj",
+      "projectPath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\YellowBook\\2\\Loop\\Loop.csproj",
       "packagesPath": "C:\\Users\\Ismayil3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\YellowBook\\Loop\\obj\\",
+      "outputPath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\YellowBook\\2\\Loop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ismayil3\\AppData\\Roaming\\NuGet\\NuGet.Config"

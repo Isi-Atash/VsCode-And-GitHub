@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kKQHgSH+ttUuGrHWFgcczmnlufgL/j/SfsV98x70k0G9SfghgYLe4vm5HNHoGA6UnCRljX/6crqa9MvFWlRFWA==",
+  "dgSpecHash": "ffYL586dCI5mjUPez1qxdMZRWMbVNdyu9ZfEg8aEzEFc90BcjqopPiLBNclTqlr5PXFP2YuiRsfAqyBTcK/8Ig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Knwlgd\\C# 8.0 and Net 3.0\\VSCode\\Chapter03\\LogicalOperators\\LogicalOperators.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\Chapter03\\LogicalOperators\\LogicalOperators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ismayil3\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
+  ],
   "logs": []
 }

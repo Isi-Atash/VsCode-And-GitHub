@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Q5FY2HtwkxgJMTfSObywlZE1/yo2mtLEHnrPPQ7XN0PHyrk7LleRr4fjCNng0fFB5QK4AGmWwqc2bLoXQteKIQ==",
+  "dgSpecHash": "S7qYespDws5PtDHTgC74RDCLvjUo2DK+s39OeAhX5B5o6YLkhFTVHHndQwyiQjMOmXOYLYmhMUShw/AhuvyDQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Knwlgd\\C# 8.0 and Net 3.0\\VSCode\\Tests\\Converter\\Converter.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\Tests\\Converter\\Converter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ismayil3\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
+  ],
   "logs": []
 }

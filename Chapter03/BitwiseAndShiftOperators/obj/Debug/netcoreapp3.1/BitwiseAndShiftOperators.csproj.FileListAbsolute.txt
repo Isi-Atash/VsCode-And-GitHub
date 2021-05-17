@@ -11,3 +11,16 @@ C:\Users\Ismayil3\Desktop\Extra\Knwlgd\C# 8.0 and Net 3.0\VSCode\Chapter03\Bitwi
 C:\Users\Ismayil3\Desktop\Extra\Knwlgd\C# 8.0 and Net 3.0\VSCode\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.dll
 C:\Users\Ismayil3\Desktop\Extra\Knwlgd\C# 8.0 and Net 3.0\VSCode\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.pdb
 C:\Users\Ismayil3\Desktop\Extra\Knwlgd\C# 8.0 and Net 3.0\VSCode\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.genruntimeconfig.cache
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.exe
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.deps.json
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.runtimeconfig.json
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.runtimeconfig.dev.json
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.dll
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\BitwiseAndShiftOperators\bin\Debug\netcoreapp3.1\BitwiseAndShiftOperators.pdb
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.csprojAssemblyReference.cache
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.AssemblyInfo.cs
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.dll
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.pdb
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\BitwiseAndShiftOperators\obj\Debug\netcoreapp3.1\BitwiseAndShiftOperators.genruntimeconfig.cache

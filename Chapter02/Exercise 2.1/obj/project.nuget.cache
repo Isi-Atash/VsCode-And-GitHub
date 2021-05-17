@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1g+sZUj/mE99I/Q6lVfl3cxmkjlsHyx1ttcF3sFWTmB906dgAb30atGCGuzUxrxXPiPct1ggfjfEMB09Mkd5PQ==",
+  "dgSpecHash": "z0r3It0qo63bwWCLt7X5siPZvakbO0N1p6r0XndbBgZ7msTmLjv5KlFaNZgzWKVLxXUQGrZSuwtKyNI6A7pKYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Knwlgd\\C# 8.0 and Net 3.0\\VSCode\\Chapter02\\Exercise 2.1\\Exercise 2.1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\Chapter02\\Exercise 2.1\\Exercise 2.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ismayil3\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -11,3 +11,16 @@ C:\Users\Ismayil3\Desktop\Extra\Knwlgd\C# 8.0 and Net 3.0\VSCode\Chapter03\Logic
 C:\Users\Ismayil3\Desktop\Extra\Knwlgd\C# 8.0 and Net 3.0\VSCode\Chapter03\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.dll
 C:\Users\Ismayil3\Desktop\Extra\Knwlgd\C# 8.0 and Net 3.0\VSCode\Chapter03\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.pdb
 C:\Users\Ismayil3\Desktop\Extra\Knwlgd\C# 8.0 and Net 3.0\VSCode\Chapter03\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.genruntimeconfig.cache
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.exe
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.deps.json
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.runtimeconfig.json
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.runtimeconfig.dev.json
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.dll
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.pdb
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.csprojAssemblyReference.cache
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.AssemblyInfoInputs.cache
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.AssemblyInfo.cs
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.dll
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.pdb
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\Chapter03\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.genruntimeconfig.cache

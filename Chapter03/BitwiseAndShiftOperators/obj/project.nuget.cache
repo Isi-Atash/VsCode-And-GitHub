@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "upprCttmRFffx66POzjeTecDBB0UGjUOo+YyvdNh5vuhiRaMonXa2B/KUYIbq0OORTea2Oh8g6Pz8XKwwXeMUg==",
+  "dgSpecHash": "uJ4+Evk+fB7xEA0ulpcs48GIrVCAkqGRtr+A9PLBlu44sBqJtfJgaEJ000Emkd2JPhubc39eg0KcUTCEjLkVYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Knwlgd\\C# 8.0 and Net 3.0\\VSCode\\Chapter03\\BitwiseAndShiftOperators\\BitwiseAndShiftOperators.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\Chapter03\\BitwiseAndShiftOperators\\BitwiseAndShiftOperators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ismayil3\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
+  ],
   "logs": []
 }

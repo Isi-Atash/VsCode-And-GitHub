@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Knwlgd\\C# 8.0 and Net 3.0\\VSCode\\Chapter02\\Arguments\\Arguments.csproj",
+      "projectUniqueName": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\Chapter02\\Arguments\\Arguments.csproj",
       "projectName": "Arguments",
-      "projectPath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Knwlgd\\C# 8.0 and Net 3.0\\VSCode\\Chapter02\\Arguments\\Arguments.csproj",
+      "projectPath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\Chapter02\\Arguments\\Arguments.csproj",
       "packagesPath": "C:\\Users\\Ismayil3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Knwlgd\\C# 8.0 and Net 3.0\\VSCode\\Chapter02\\Arguments\\obj\\",
+      "outputPath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\Chapter02\\Arguments\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ismayil3\\AppData\\Roaming\\NuGet\\NuGet.Config"
