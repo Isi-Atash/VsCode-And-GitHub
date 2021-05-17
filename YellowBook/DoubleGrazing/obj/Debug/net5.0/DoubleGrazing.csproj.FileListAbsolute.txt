@@ -1,0 +1,16 @@
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\DoubleGrazing\bin\Debug\net5.0\DoubleGrazing.exe
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\DoubleGrazing\bin\Debug\net5.0\DoubleGrazing.deps.json
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\DoubleGrazing\bin\Debug\net5.0\DoubleGrazing.runtimeconfig.json
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\DoubleGrazing\bin\Debug\net5.0\DoubleGrazing.runtimeconfig.dev.json
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\DoubleGrazing\bin\Debug\net5.0\DoubleGrazing.dll
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\DoubleGrazing\bin\Debug\net5.0\ref\DoubleGrazing.dll
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\DoubleGrazing\bin\Debug\net5.0\DoubleGrazing.pdb
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\DoubleGrazing\obj\Debug\net5.0\DoubleGrazing.csprojAssemblyReference.cache
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\DoubleGrazing\obj\Debug\net5.0\DoubleGrazing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\DoubleGrazing\obj\Debug\net5.0\DoubleGrazing.AssemblyInfoInputs.cache
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\DoubleGrazing\obj\Debug\net5.0\DoubleGrazing.AssemblyInfo.cs
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\DoubleGrazing\obj\Debug\net5.0\DoubleGrazing.csproj.CoreCompileInputs.cache
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\DoubleGrazing\obj\Debug\net5.0\DoubleGrazing.dll
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\DoubleGrazing\obj\Debug\net5.0\ref\DoubleGrazing.dll
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\DoubleGrazing\obj\Debug\net5.0\DoubleGrazing.pdb
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\DoubleGrazing\obj\Debug\net5.0\DoubleGrazing.genruntimeconfig.cache
