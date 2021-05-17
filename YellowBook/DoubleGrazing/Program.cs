@@ -5,16 +5,21 @@ namespace DoubleGrazing
 {
     class Program
     {
+        const double MAX_WIDTH = 5.0;
+        const double MIN_WIDTH = 0.5;
+        const double MAX_HEIGHT = 3.0;
+        const double MIN_HEIGHT = 0.75;
+
+
         static void Main(string[] args)
         {
-            // Console.WriteLine("Hello World!");
+            DoubleGrazing1();
+        }
+
+
+        static void DoubleGrazing1()
+        {
             double width, height, woodLength, glassArea;
-
-            const double MAX_WIDTH = 5.0;
-            const double MIN_WIDTH = 0.5;
-            const double MAX_HEIGHT = 3.0;
-            const double MIN_HEIGHT = 0.75;
-
             string widthString, heightString;
 
             WriteLine("Give the width of the window: ");
@@ -51,8 +56,34 @@ namespace DoubleGrazing
                 height = MAX_HEIGHT;
             }
 
-            woodLength=2*(height+width);
-            glassArea=2*(height*width);
+            woodLength = 2 * (height + width);
+            glassArea = 2 * (height * width);
+
+            WriteLine($"The length of the wood is {woodLength} meters");
+            WriteLine($"The area of the glass is {glassArea} square meters");
+        }
+
+        static void DoubleGrazing2()
+        {
+            double width, height, woodLength, glassArea;
+            string widthString, heightString;
+
+            do
+            {
+                Write($"Give the width of the window between {MIN_WIDTH} and {MAX_WIDTH}: ");
+                widthString = ReadLine();
+                width = double.Parse(widthString);
+            } while (width < MIN_WIDTH || width > MAX_WIDTH);
+
+            do
+            {
+                Write($"Give the height of the window between {MIN_HEIGHT} and {MAX_HEIGHT}");
+                heightString = ReadLine();
+                height = double.Parse(heightString);
+            } while (height < MIN_HEIGHT || height > MAX_HEIGHT);
+
+            woodLength = 2 * (height + width);
+            glassArea = 2 * (height * width);
 
             WriteLine($"The length of the wood is {woodLength} meters");
             WriteLine($"The area of the glass is {glassArea} square meters");
