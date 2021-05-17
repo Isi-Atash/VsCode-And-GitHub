@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\Tests\\Casting\\Casting.csproj": {}
+    "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\Tests\\Casting\\Casting.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\Tests\\Casting\\Casting.csproj": {
+    "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\Tests\\Casting\\Casting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\Tests\\Casting\\Casting.csproj",
+        "projectUniqueName": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\Tests\\Casting\\Casting.csproj",
         "projectName": "Casting",
-        "projectPath": "c:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\Tests\\Casting\\Casting.csproj",
+        "projectPath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\Tests\\Casting\\Casting.csproj",
         "packagesPath": "C:\\Users\\Ismayil3\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\Tests\\Casting\\obj\\",
+        "outputPath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\Tests\\Casting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ismayil3\\AppData\\Roaming\\NuGet\\NuGet.Config"

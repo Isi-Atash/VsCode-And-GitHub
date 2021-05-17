@@ -34,6 +34,7 @@ namespace Casting
             {
                 WriteLine("Please enter any number");
                 bool isNumber = int.TryParse(ReadLine(), out int number);
+                WriteLine(isNumber);
 
                 if (isNumber)
                 {
