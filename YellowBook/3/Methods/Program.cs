@@ -11,15 +11,26 @@ namespace Methods
         static void Main(string[] args)
         {
             // Console.WriteLine("Hello World!");
-            DoIt();
-            Stupid(9);
-            StupidReturnAdd(9);
+            // DoIt();
+            // Stupid(9);
+            // StupidReturnAdd(9);
 
-            double windowWidth = ReadValue(MIN_WIDTH, MAX_WIDTH, "Enter width of Window");
-            WriteLine($"Width is {windowWidth}");
+            // double windowWidth = ReadValue(MIN_WIDTH, MAX_WIDTH, "Enter width of Window");
+            // WriteLine($"Width is {windowWidth}");
 
-            double age = ReadValue(0, 99);
-            WriteLine($"Age is {age}");
+            // double age = ReadValue(0, 99);
+            // WriteLine($"Age is {age}");
+
+            // int test = 19;
+            // AddOne(test);
+            // //This Ref method, brcause of ref parameter, will change the value of test var outside of method too.
+            // AddOneRefParam(ref test);
+            // WriteLine(test);
+
+            string name;
+            int age;
+            ReadPerson(out name, out age);
+            WriteLine($"{name} is {age} years old");
         }
 
         static void DoIt()
@@ -58,5 +69,60 @@ namespace Methods
         {
             WriteLine(country);
         }
+
+        static void AddOne(int i)
+        {
+            i++;
+            WriteLine($"i is {i}");
+        }
+
+        static void AddOneRefParam(ref int i)
+        {
+            i++;
+            WriteLine($"i is {i}");
+        }
+
+        static string ReadName()
+        {
+            WriteLine("What is your name?");
+            return ReadLine();
+        }
+
+        static int ReadAge()
+        {
+
+            int age = 0;
+            bool repeat = true;
+
+            do
+            {
+
+                WriteLine("What is your age?");
+                bool isAge = int.TryParse(ReadLine(), out age);
+                if (isAge)
+                    repeat = false;
+
+            } while (repeat);
+
+            return age;
+        }
+
+        static void ReadPerson(out string name, out int age)
+        {
+            name = ReadName();
+            age = ReadAge();
+        }
+
+
+        // static HelloType helloType(int i){
+        //     HelloType hello=new HelloType { i , i };
+        // }
+
+        // private class HelloType
+        // {
+        //     public int a { get; set; }
+        //     public int b { get; set; }
+
+        // }
     }
 }
