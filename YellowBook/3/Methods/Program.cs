@@ -36,8 +36,8 @@ namespace Methods
             // ReadPerson(out string name, out int age);
             // WriteLine($"{name} is {age} years old");
 
-            CommonClass commonClass = new CommonClass();
-            commonClass.ReadMe();
+            // CommonClass commonClass = new CommonClass();
+            // commonClass.ReadMe();
 
             // CommonMethodTest.CommonClass common = new CommonMethodTest.CommonClass();
             // common.SayHello();
