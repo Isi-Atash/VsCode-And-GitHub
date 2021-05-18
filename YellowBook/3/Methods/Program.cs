@@ -1,7 +1,5 @@
 ﻿using System;
 using static System.Console;
-// using CommonMethodTest;
-// using TryReferencingClass;
 
 namespace Methods
 {
