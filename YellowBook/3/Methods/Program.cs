@@ -5,12 +5,17 @@ namespace Methods
 {
     class Program
     {
+<<<<<<< HEAD
+=======
         const double MAX_WIDTH = 5.0;
         const double MIN_WIDTH = 0.5;
 
+>>>>>>> TryClasses
         static void Main(string[] args)
         {
             // Console.WriteLine("Hello World!");
+<<<<<<< HEAD
+=======
             // DoIt();
             // Stupid(9);
             // StupidReturnAdd(9);
@@ -23,23 +28,18 @@ namespace Methods
 
             // int test = 19;
             // AddOne(test);
-
+            
             // //This Ref method, brcause of ref parameter, will change the value of test var outside of method too.
             // AddOneRefParam(ref test);
             // WriteLine(test);
 
             // string name1;
-            // // int age2;
-            // ReadPerson(out string name, out int age);
-            // WriteLine($"{name} is {age} years old");
+            // int age2;
+            ReadPerson(out string name, out int age);
+            WriteLine($"{name} is {age} years old");
 
             CommonClass commonClass = new CommonClass();
             commonClass.ReadMe();
-
-            CommonMethodTest.CommonClass common = new CommonMethodTest.CommonClass();
-            common.SayHello();
-
-            // CreatedClass created=new CreatedClass();
 
             // CommonClass.ReadMe();
             // MethodLibraries alma=new MethodLibraries();
@@ -92,49 +92,7 @@ namespace Methods
         {
             i++;
             WriteLine($"i is {i}");
+>>>>>>> parent of 6db4f41 (At last, i was able to Reference)
         }
-
-        static string ReadName()
-        {
-            WriteLine("What is your name?");
-            return ReadLine();
-        }
-
-        static int ReadAge()
-        {
-
-            int age = 0;
-            bool repeat = true;
-
-            do
-            {
-
-                WriteLine("What is your age?");
-                bool isAge = int.TryParse(ReadLine(), out age);
-                if (isAge)
-                    repeat = false;
-
-            } while (repeat);
-
-            return age;
-        }
-
-        static void ReadPerson(out string name, out int age)
-        {
-            name = ReadName();
-            age = ReadAge();
-        }
-
-
-        // static HelloType helloType(int i){
-        //     HelloType hello=new HelloType { i , i };
-        // }
-
-        // private class HelloType
-        // {
-        //     public int a { get; set; }
-        //     public int b { get; set; }
-
-        // }
     }
 }
