@@ -1,5 +1,9 @@
 ﻿using System;
 using static System.Console;
+// using MethodLibraries;
+// using YellowBook.Methods;
+
+
 
 namespace Methods
 {
@@ -8,7 +12,7 @@ namespace Methods
         const double MAX_WIDTH = 5.0;
         const double MIN_WIDTH = 0.5;
 
-        // MethodLibraries methodLibraries=new MethodLibraries();
+        // MethodLibrariesClass methodLibraries = new MethodLibraries();
 
         static void Main(string[] args)
         {
@@ -33,6 +37,13 @@ namespace Methods
             // int age2;
             ReadPerson(out string name, out int age);
             WriteLine($"{name} is {age} years old");
+
+            CommonClass commonClass = new CommonClass();
+            commonClass.ReadMe();
+
+            // CommmonMethods.MethodLibraries methodLibraries=new MethodLibraries();
+            // CommonClass.ReadMe();
+            // MethodLibraries alma=new MethodLibraries();
         }
 
         static void DoIt()

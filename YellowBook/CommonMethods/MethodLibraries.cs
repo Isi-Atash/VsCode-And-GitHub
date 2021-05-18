@@ -1,17 +1,24 @@
 using System;
 using static System.Console;
 
-public class MethodLibraries
+namespace YellowBook.CommonMethods
 {
-    static string ReadString(string prompt)
+    public class MethodLibraries
     {
-        string result;
-        do
+        public MethodLibraries()
         {
-            Write(prompt);
-            result = ReadLine();
 
-        } while (result = "");
-        return result;
+        }
+        static string ReadString(string prompt)
+        {
+            string result;
+            do
+            {
+                Write(prompt);
+                result = ReadLine();
+
+            } while (result = "");
+            return result;
+        }
     }
 }
