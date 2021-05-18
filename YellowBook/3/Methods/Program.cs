@@ -1,6 +1,7 @@
 ﻿using System;
 using static System.Console;
 using CommonMethodTest;
+// using TryReferencingClass;
 
 namespace Methods
 {
@@ -40,6 +41,8 @@ namespace Methods
 
             CommonMethodTest.CommonClass common = new CommonMethodTest.CommonClass();
             common.SayHello();
+
+            // CreatedClass created=new CreatedClass();
 
             // CommonClass.ReadMe();
             // MethodLibraries alma=new MethodLibraries();
