@@ -1,0 +1,12 @@
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\Classes\CommonMethodTest\bin\Debug\net5.0\CommonMethodTest.deps.json
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\Classes\CommonMethodTest\bin\Debug\net5.0\CommonMethodTest.dll
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\Classes\CommonMethodTest\bin\Debug\net5.0\ref\CommonMethodTest.dll
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\Classes\CommonMethodTest\bin\Debug\net5.0\CommonMethodTest.pdb
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\Classes\CommonMethodTest\obj\Debug\net5.0\CommonMethodTest.csprojAssemblyReference.cache
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\Classes\CommonMethodTest\obj\Debug\net5.0\CommonMethodTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\Classes\CommonMethodTest\obj\Debug\net5.0\CommonMethodTest.AssemblyInfoInputs.cache
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\Classes\CommonMethodTest\obj\Debug\net5.0\CommonMethodTest.AssemblyInfo.cs
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\Classes\CommonMethodTest\obj\Debug\net5.0\CommonMethodTest.csproj.CoreCompileInputs.cache
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\Classes\CommonMethodTest\obj\Debug\net5.0\CommonMethodTest.dll
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\Classes\CommonMethodTest\obj\Debug\net5.0\ref\CommonMethodTest.dll
+C:\Users\Ismayil3\Desktop\Extra\Repos\VsCode-And-GitHub\YellowBook\Classes\CommonMethodTest\obj\Debug\net5.0\CommonMethodTest.pdb
