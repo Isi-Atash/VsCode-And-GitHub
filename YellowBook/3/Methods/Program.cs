@@ -1,9 +1,5 @@
 ﻿using System;
 using static System.Console;
-// using MethodLibraries;
-// using YellowBook.Methods;
-
-
 
 namespace Methods
 {
@@ -12,7 +8,6 @@ namespace Methods
         const double MAX_WIDTH = 5.0;
         const double MIN_WIDTH = 0.5;
 
-        // MethodLibrariesClass methodLibraries = new MethodLibraries();
 
         static void Main(string[] args)
         {
@@ -29,6 +24,7 @@ namespace Methods
 
             // int test = 19;
             // AddOne(test);
+            
             // //This Ref method, brcause of ref parameter, will change the value of test var outside of method too.
             // AddOneRefParam(ref test);
             // WriteLine(test);
@@ -41,7 +37,6 @@ namespace Methods
             CommonClass commonClass = new CommonClass();
             commonClass.ReadMe();
 
-            // CommmonMethods.MethodLibraries methodLibraries=new MethodLibraries();
             // CommonClass.ReadMe();
             // MethodLibraries alma=new MethodLibraries();
         }
