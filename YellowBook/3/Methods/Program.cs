@@ -1,5 +1,7 @@
 ﻿using System;
 using static System.Console;
+// using CommonMethodTest;
+// using TryReferencingClass;
 
 namespace Methods
 {
@@ -24,18 +26,23 @@ namespace Methods
 
             // int test = 19;
             // AddOne(test);
-            
+
             // //This Ref method, brcause of ref parameter, will change the value of test var outside of method too.
             // AddOneRefParam(ref test);
             // WriteLine(test);
 
             // string name1;
-            // int age2;
-            ReadPerson(out string name, out int age);
-            WriteLine($"{name} is {age} years old");
+            // // int age2;
+            // ReadPerson(out string name, out int age);
+            // WriteLine($"{name} is {age} years old");
 
             CommonClass commonClass = new CommonClass();
             commonClass.ReadMe();
+
+            // CommonMethodTest.CommonClass common = new CommonMethodTest.CommonClass();
+            // common.SayHello();
+
+            // CreatedClass created=new CreatedClass();
 
             // CommonClass.ReadMe();
             // MethodLibraries alma=new MethodLibraries();
