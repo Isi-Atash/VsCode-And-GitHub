@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "CommonMethodTest/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/CommonMethodTest.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommonMethodTest.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CommonMethodTest/1.0.0": {
+      "type": "project",
+      "path": "../../Classes/CommonMethodTest/CommonMethodTest.csproj",
+      "msbuildProject": "../../Classes/CommonMethodTest/CommonMethodTest.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "CommonMethodTest >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Ismayil3\\.nuget\\packages\\": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\YellowBook\\Classes\\CommonMethodTest\\CommonMethodTest.csproj": {
+              "projectPath": "C:\\Users\\Ismayil3\\Desktop\\Extra\\Repos\\VsCode-And-GitHub\\YellowBook\\Classes\\CommonMethodTest\\CommonMethodTest.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

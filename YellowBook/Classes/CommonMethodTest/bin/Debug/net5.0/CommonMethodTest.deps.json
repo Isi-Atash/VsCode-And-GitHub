@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Methods/1.0.0": {
-        "dependencies": {
-          "CommonMethodTest": "1.0.0"
-        },
-        "runtime": {
-          "Methods.dll": {}
-        }
-      },
       "CommonMethodTest/1.0.0": {
         "runtime": {
           "CommonMethodTest.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "Methods/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "CommonMethodTest/1.0.0": {
       "type": "project",
       "serviceable": false,
