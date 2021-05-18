@@ -10,7 +10,6 @@ namespace Methods
         const double MAX_WIDTH = 5.0;
         const double MIN_WIDTH = 0.5;
 
-
         static void Main(string[] args)
         {
             // Console.WriteLine("Hello World!");
