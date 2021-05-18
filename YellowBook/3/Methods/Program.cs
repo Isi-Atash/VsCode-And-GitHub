@@ -8,6 +8,8 @@ namespace Methods
         const double MAX_WIDTH = 5.0;
         const double MIN_WIDTH = 0.5;
 
+        // MethodLibraries methodLibraries=new MethodLibraries();
+
         static void Main(string[] args)
         {
             // Console.WriteLine("Hello World!");
@@ -27,9 +29,9 @@ namespace Methods
             // AddOneRefParam(ref test);
             // WriteLine(test);
 
-            string name;
-            int age;
-            ReadPerson(out name, out age);
+            // string name1;
+            // int age2;
+            ReadPerson(out string name, out int age);
             WriteLine($"{name} is {age} years old");
         }
 
